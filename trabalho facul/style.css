@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica;
+    color: black;
+    border: none;
+
+}
+
+body{
+    background-image: url(imagem/fundo.png);
+    background-size: cover;
+    background-position: -200px;
+}
+textarea:focus, imput:focus {
+    outline: none;
+    
+}
+a{
+    font-size: .8rem;
+}
+a:hover{
+    color: aqua;
+}
